@@ -31,15 +31,14 @@ https://www.youtube.com/user/phreakindee and all of his friends.
 - Floppy Drive
 - The floppy drive image in the github -> TODO: Insert link here. 
 - One Old network card that works with the HP Vectra Series 3 5/75
+- 
 **Steps**
 - Copy that floppy
 - Boot that floppy
 - Connect to network
+- Copy either to the hard drive or the SD Card.
+- Boot from floppy into linux.
+- Install whatever ISA/PCI cards you want!
+![image](https://user-images.githubusercontent.com/84703765/119315154-67bcb200-bc2a-11eb-9690-0dedf4acd76d.png)
 
-
-
-## RLDR (Realy Long Don't Read)
-About a year a go I met LGR's friend in texas that got flooded :( It was a really awkward conversation but thats fine.
-So I then forgot about it and needed to take some sick days at work so I did this:
-This is a linux vm that will be released on github.
 
