@@ -1,4 +1,4 @@
-**bridgenuke/bridgenuke** is a ✨ _special_ ✨ repository because its my resume.
+**bridgenuke/bridgenuke** is a ✨ _special_ ✨ repository because its a https://www.youtube.com/watch?v=mP3bcPvgIG8.
 
 ### Hi there 👋
 
