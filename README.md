@@ -1,4 +1,15 @@
-Hello timelords this is the bridgenuke blog.
+### Hi there 👋 Hello timelords this is the bridgenuke blog.
+
+- 🔭 I’m currently working on **bridgenuke.** 
+- 🔭 A demo of **bridgenuke v2** will be demoed at http://vcfmw.org/ on September 11-12, 2021
+- 🌱 I’m currently learning **Markdown mostly. I want to learn Yavascript but https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript**
+- 🤔 I’m looking for **help with finding a new job.**
+- 📫 How to reach me **bridgenuke@protonmail.com**
+- 💵 How to pay me: **Did you read the line above?**
+- 🐙 How to leave a pull request on this project: **🚭 https://dev.to/joelnet/how-one-guy-ruined-hacktoberfest2020-drama-1200**
+
+#### 2021-05-24T09:48:22Z
+
 Our first post will be on the tardis a link on how to make two computers of very different ages talk to each other through sd cards or cf cards.
 
 This is Version 0.1.
@@ -26,7 +37,7 @@ Eventually this will use different repos but monorepo FTW.
 - https://hackaday.com/2020/07/08/the-latest-linux-on-a-floppy-in-a-486/
 - https://en.wikipedia.org/wiki/Linus_Torvalds
 
-**Development Machine Documentation**
+## Development Machine Documentation
 
 # Ingredients for Development
 Type|Item
@@ -61,12 +72,3 @@ Type|Description|Item|Price|Source
 ![image](https://user-images.githubusercontent.com/84703765/119316721-24634300-bc2c-11eb-8ad6-6748f38b26cc.png)
 
 
-### Hi there 👋 you made it all the way down here? Well here it is how to hire me :)
-
-- 🔭 I’m currently working on **bridgenuke.** 
-- 🔭 A demo of **bridgenuke v2** will be demoed at http://vcfmw.org/ on September 11-12, 2021
-- 🌱 I’m currently learning **Markdown mostly. I want to learn Yavascript but https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript**
-- 🤔 I’m looking for **help with finding a new job.**
-- 📫 How to reach me **bridgenuke@protonmail.com**
-- 💵 How to pay me: **Did you read the line above?**
-- 🐙 How to leave a pull request on this project: **🚭 https://dev.to/joelnet/how-one-guy-ruined-hacktoberfest2020-drama-1200**
