@@ -10,7 +10,7 @@
 🕰️
 #### 2021-05-24T09:48:22Z 
 🕰️
-Our first post will be on the tardis a link on how to make two computers of very different ages talk to each other through sd cards or cf cards.
+Our first post will be on the tardis a link on how to make two computers of very different ages talk to each other through flash media.
 
 **Documentation of [bridgenuke/tardis](https://www.youtube.com/watch?v=SGzNB5TXvj8&t=2s.)**
 
@@ -44,24 +44,14 @@ Type|Item
 **Case** | [Lian Li O11D XL-X ATX Full Tower Case](https://pcpartpicker.com/product/FjpmP6/lian-li-o11d-xl-x-atx-full-tower-case-o11d-xl-x)
 **Power Supply** | [Asus ROG STRIX G 1000 W 80+ Gold Certified Fully Modular ATX Power Supply](https://pcpartpicker.com/product/Nj3mP6/asus-rog-strix-g-1000-w-80-gold-certified-fully-modular-atx-power-supply-rog-strix-1000g)
 
-# Ingredients For Test
-Type|Description|Item|Price|Source
-:----|:----|:----|:----|:----
-**Base System** | HP Vectra VL Series 3 5/75 | $85 | Facebook Marketplace
-**Keyboard** | Dell PS/2 Keyboard | $12.95 | https://www.ebay.com/itm/151877309742
-**CF Card Creator** | SD CF IDE BR | Varies |Microcenter
-**** | | IDE Hard Drive
-- for booting
--  for copying it over to the SD Card
-- Floppy Drive
-- The floppy drive image in the github -> TODO: Insert link here. 
-- One Old network card that works with the HP Vectra Series 3 5/75
+# How to build a test system.
+Watch this youtube video.
+https://www.youtube.com/watch?v=fbjYkPKRm-8&t=18s
 
-
+<!--
 # Screenshots
 ![image](https://user-images.githubusercontent.com/84703765/119316522-e7974c00-bc2b-11eb-96ed-f0438d87158a.png)
 ![image](https://user-images.githubusercontent.com/84703765/119316489-dcdcb700-bc2b-11eb-81e7-0afe740e2c58.png)
 ![image](https://user-images.githubusercontent.com/84703765/119316389-c20a4280-bc2b-11eb-9f0d-50ab1519f5f9.png)
 ![image](https://user-images.githubusercontent.com/84703765/119316721-24634300-bc2c-11eb-8ad6-6748f38b26cc.png)
-
-
+-->
