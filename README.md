@@ -1,9 +1,14 @@
-[**bridgenuke/bridgenuke**](https://www.youtube.com/watch?v=mP3bcPvgIG8.)
-
-### BridgeNuke Project
-
 ![image](https://user-images.githubusercontent.com/84703765/119317848-69d44000-bc2d-11eb-8471-170bfbc7e544.png)
 
+
+
+
+
+
+
+
+[**bridgenuke/bridgenuke**](https://www.youtube.com/watch?v=mP3bcPvgIG8.)
+### BridgeNuke Project
 **Steps**
 - Copy that floppy
 - Boot that floppy
