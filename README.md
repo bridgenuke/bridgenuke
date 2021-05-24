@@ -26,7 +26,6 @@ https://www.youtube.com/user/phreakindee
 15 Years of Linux Experience from trolling Linux User Groups and then Python User's Groups
 
 **Development Machine Documentation**
-## TLDR; Too long dont read
 
 # Ingredients for Development
 Type|Item|Price
@@ -75,4 +74,3 @@ Type|Item|Price|Source
 - 📫 How to reach me **bridgenuke@protonmail.com**
 - 💵 How to pay me: **Did you read the line above?**
 - 🐙 How to leave a pull request on this project: **🚭 https://dev.to/joelnet/how-one-guy-ruined-hacktoberfest2020-drama-1200**
-
