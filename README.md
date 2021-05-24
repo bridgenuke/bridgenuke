@@ -1,12 +1,14 @@
-![image](https://user-images.githubusercontent.com/84703765/119329313-ee2cc000-bc39-11eb-9664-6d9a4a811747.png)
+Hello timelords this is the bridgenuke blog.
+Our first post will be on the tardis a link on how to make two computers of very different ages talk to each other through sd cards or cf cards.
+
+This is Version 0.1.
+Eventually this will use different repos but monorepo FTW.
+
+![bridgenuke/tardis](https://user-images.githubusercontent.com/84703765/119329313-ee2cc000-bc39-11eb-9664-6d9a4a811747.png)
 
 
 
-
-
-
-**Documentation**
-[**bridgenuke/tardis**](https://www.youtube.com/watch?v=SGzNB5TXvj8&t=2s.)
+**Documentation of [bridgenuke/tardis](https://www.youtube.com/watch?v=SGzNB5TXvj8&t=2s.)**
 
 **Steps**
 - Copy that floppy
