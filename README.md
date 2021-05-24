@@ -7,7 +7,7 @@
 
 
 **Documentation**
-[**bridgenuke/tardis**](https://www.youtube.com/watch?v=mP3bcPvgIG8.)
+[**bridgenuke/tardis**](https://www.youtube.com/watch?v=SGzNB5TXvj8&t=2s.)
 
 **Steps**
 - Copy that floppy
@@ -21,7 +21,7 @@
 - Install whatever ISA/PCI cards you want!
 
 ## References:
-- https://www.youtube.com/user/phreakindee
+- https://www.youtube.com/user/phreakindee (https://www.bing.com/videos/search?q=youtube+lgr)
 - https://hackaday.com/2020/07/08/the-latest-linux-on-a-floppy-in-a-486/
 - https://en.wikipedia.org/wiki/Linus_Torvalds
 
