@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **bridgenuke.** 
 - 🔭 A demo of **bridgenuke v2** will be demoed at http://vcfmw.org/ on September 11-12, 2021
-- 🌱 I’m currently learning **Markdown mostly. I want to learn Yavascript but https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript**
+- 🌱 I’m currently learning **Github Flavored Markdown** mostly. I know enough javascript to do this but not present this: https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript**
 - 🤔 I’m looking for **help with finding a new job.**
 - 📫 How to reach or 💵 me **bridgenuke@protonmail.com**
 - 🐙 How not to leave a pull request on this project: **🚭 https://dev.to/joelnet/how-one-guy-ruined-hacktoberfest2020-drama-1200**
