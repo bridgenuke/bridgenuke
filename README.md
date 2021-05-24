@@ -4,16 +4,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on bridgenuke.
-- 🌱 I’m currently learning? Markdown mostly. I want to learn Yavascript but -> https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript watch that video on what is going to happen. (https://brython.info/)
+- 🌱 I’m currently learning? Markdown mostly. I want to learn Yavascript but (Gary Bernhardt  https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript watch that video on what is going to happen. (https://brython.info/)
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with finding a new job.
-- 💬 Ask me about anything.
 - 📫 How to reach me: bridgenuke@protonmail.com 
-- 💵 How to pay me: 6307509505 leave a voice mail and I will answer your call in the order it is recieved.
+- 💵 How to pay me: https://www.eff.org/pages/other-ways-give-and-donor-support Do it in the name Brian Brian Brian and I will know thank you!
+- 🐙 How to leave a pull request on this project: Don't, just don't fork it if you can!  https://dev.to/joelnet/how-one-guy-ruined-hacktoberfest2020-drama-1200
 
-### Warning
-This project will be archived immediately as to prevent pull requests like  https://dev.to/joelnet/how-one-guy-ruined-hacktoberfest2020-drama-1200
-### Warning
 
 ### BridgeNuke Project
 ## References:
