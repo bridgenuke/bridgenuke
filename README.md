@@ -7,11 +7,10 @@
 - 📫 How to reach or 💵 me **bridgenuke@protonmail.com**
 - 🐙 How not to leave a pull request on this project: **🚭 https://dev.to/joelnet/how-one-guy-ruined-hacktoberfest2020-drama-1200**
 
-#### 2021-05-24T09:48:22Z
+🕰️
+#### 2021-05-24T09:48:22Z 
+🕰️
 Our first post will be on the tardis a link on how to make two computers of very different ages talk to each other through sd cards or cf cards.
-
-![bridgenuke/tardis](https://user-images.githubusercontent.com/84703765/119329313-ee2cc000-bc39-11eb-9664-6d9a4a811747.png)
-
 
 **Documentation of [bridgenuke/tardis](https://www.youtube.com/watch?v=SGzNB5TXvj8&t=2s.)**
 
