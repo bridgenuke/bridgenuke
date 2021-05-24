@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **Markdown mostly. I want to learn Yavascript but https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript**
 - 🤔 I’m looking for **help with finding a new job.**
 - 📫 How to reach me **bridgenuke@protonmail.com**
-- 💵 How to pay me: Ask me for my bitcoin address and I will train you on how to make bridgenuke.
-- 🐙 How to leave a pull request on this project: 🚭 https://dev.to/joelnet/how-one-guy-ruined-hacktoberfest2020-drama-1200
+- 💵 How to pay me: **Did you read the line above?**
+- 🐙 How to leave a pull request on this project: **🚭 https://dev.to/joelnet/how-one-guy-ruined-hacktoberfest2020-drama-1200**
 
 
 ### BridgeNuke Project
